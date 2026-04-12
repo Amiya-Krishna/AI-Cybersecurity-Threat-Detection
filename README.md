@@ -145,15 +145,14 @@ Clean visualization of attack patterns
 
 ### 🟢 class_distribution
 
-![distribution](outputs/class_distribution.png)
+### 🟢 Class Distribution
+![Class Distribution](outputs/class_distribution.png)
 
-### 🚀 confusion_matrix
+### 🚀 Confusion Matrix
+![Confusion Matrix](outputs/confusion_matrix.png)
 
-![matrix](outputs/confusion_matrix.png)
-
-### 🚀 feature_importance
-
-![importance](outputs/feature_importance.png)
+### 📈 Feature Importance
+![Feature Importance](outputs/feature_importance.png)
 
 🟢 Confusion Matrix
 📊 Model Performance Graph
