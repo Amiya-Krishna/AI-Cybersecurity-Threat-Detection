@@ -179,7 +179,9 @@ Developed an AI-based Cybersecurity Threat Detection System using Machine Learni
 👨‍💻 Author
 
 Amiya Krishna Chaurasiya
+
 GitHub: https://github.com/Amiya-Krishna
+
 LinkedIn: www.linkedin.com/in/amiya-krishna
 
 ⭐ Support
